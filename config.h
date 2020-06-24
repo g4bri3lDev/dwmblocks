@@ -1,6 +1,7 @@
 //Modify this file to change what commands output to your statusbar, and recompile using the make command.
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
+	{"",	"oskb",		0,	13},
 	{"",	"rotate",	0,	12},
 	{"",	"playing",	60,	11},
 	{"",	"weather",	18000,	5},
